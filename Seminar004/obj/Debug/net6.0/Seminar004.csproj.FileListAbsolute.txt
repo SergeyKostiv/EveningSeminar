@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/bin/Debug/net6.0/Seminar004
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/bin/Debug/net6.0/Seminar004.deps.json
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/bin/Debug/net6.0/Seminar004.runtimeconfig.json
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/bin/Debug/net6.0/Seminar004.dll
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/bin/Debug/net6.0/Seminar004.pdb
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.dll
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/refint/Seminar004.dll
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.pdb
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/Seminar004.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/EveningSeminar/Seminar004/obj/Debug/net6.0/ref/Seminar004.dll
